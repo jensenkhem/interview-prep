@@ -49,8 +49,8 @@ For mTLS, the client also needs to be issued a certificate.
 ## Handshake process
 1. Client initiates contact with the server, server exchanges TLS version and other configuration information with client
 1. Client verifies that the server is indeed who they say they are by checking the certificate signed by the CA associated with the server. If mTLS, the server will also have to verify the client.
-1. Server's private key is used to decrypt a shared secret sent by the client, which allows distribution of session keys for communication
-1. Session keys are distributed, which encrypt communication after the handshake
+1. Client generates a shared secret key that is encrypted with the server's public key. Can only be decrypted using the server's private key.
+1. Secret key is decrypted, and session keys are distributed which encrypt all communication between the client/server from here on out.
 1. Handshake concludes
 
 ## mTLS vs TLS
