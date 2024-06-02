@@ -56,3 +56,6 @@ For mTLS, the client also needs to be issued a certificate.
 ## mTLS vs TLS
 - **mTLS**: mTLS is used in situations that require strong client authentication, such as secure API access, where client identity verification is crucial.
 - **TLS**: Used in situations where client identity verification is not critical, such as web browsing.
+
+# SCADA
+**S**upervisory **C**ontrol **A**nd **D**ata **A**cquisition
