@@ -59,3 +59,19 @@ For mTLS, the client also needs to be issued a certificate.
 
 # SCADA
 **S**upervisory **C**ontrol **A**nd **D**ata **A**cquisition
+
+# Honeywell Questions
+## About Honeywell
+Based on what i've read, Honeywell is focused right now on providing solutions for industrial automation, transition to clean energy, aviation, and much more. 
+
+## Why I would be a good fit
+
+### Prior background
+I understand I will be using my skills to service, configure, maintain and diagnose distributed
+control systems and their respective networks. I am familiar with some virtualization technologies and
+networking, as I did some work there in my COOP work terms at Willoglen Systems.
+
+### Communication
+I am not shy to ask for help because the priority is the safety of the operating facility. If I don't know or am unsure about something, I believe that it is important to communicate that clearly to the parties involved, and make some calls or whatever else is needed to resolve the issue. Risk management is the top priority in these situations.
+
+
